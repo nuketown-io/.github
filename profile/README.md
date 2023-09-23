@@ -12,7 +12,7 @@ It is a SaaS service, no installation required.
 
 You can view our status page on [status.nuketown.io](https://status.nuketown.io/).
 
-![Status Page](../assets/status.png)
+![Status Page](https://github.com/nuketown-io/.github/blob/main/assets/status.png)
 
 Every status page has a unique URL, and you can customize:
 
