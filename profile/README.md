@@ -30,12 +30,15 @@ NukeTown can send alerts on
 
 ## Pricing
 
-NukeTown is a new service, and is currently free, but will be paid in the future.
+These are the current plans:
 
-The price will be `$5 per month`, per status page.
-Every status page can have unlimited endpoints and unlimited alerts.
+- Free: 3 endpoints, infinite alerts - $0/month
+- Professional: 10 endpoints - $5/month
+- Business: 50 endpoints - $18/month
 
-Minimum scan interval is `5 minutes` and maximum scan interval is `1 hour` (in future we will improve this).
+You can reach more info here [nuketown.io](https://nuketown.io/).
+
+Minimum scan interval is `5 minutes` and maximum scan interval is `2 hour` (in future we will improve this).
 
 ## Support
 
